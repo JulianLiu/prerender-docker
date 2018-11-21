@@ -6,7 +6,8 @@
   "dependencies": {
     "html-minifier": "^3.2.15",
     "pm2": "^2.10.3",
-    "prerender": "5.4.4"
+    "prerender": "5.4.4",
+    "prerender-aws-s3-cache": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
